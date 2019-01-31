@@ -1,1 +1,15 @@
+
+
+
 id | int | primary key | auto_increment |
+modello
+marchio
+cilindrata
+cavalli
+anno
+alimentazione
+numero_proprietari
+optional
+provincia
+prezzo
+passaggio_incluso

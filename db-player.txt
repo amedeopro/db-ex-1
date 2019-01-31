@@ -7,6 +7,7 @@ cognome_giocatore | varchar (15) | notnull
 altezza | FLOAT (3,2) |
 peso | FLOAT (5,2) |
 data_nascita | DATE |
+team | varchar(15) |
 media_punti | FLOAT (4,2) |
 media_da_tre | FLOAT (4,2) |
 media_da_due | FLOAT (4,2) |
