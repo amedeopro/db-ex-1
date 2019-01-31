@@ -2,3 +2,11 @@
 
 
 id | int | primary key | auto_increment |
+nome_giocatore | varchar (15) |
+cognome_giocatore
+altezza
+peso
+data_nascita
+media_punti
+media_da_tre
+media_da_due
