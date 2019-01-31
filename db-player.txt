@@ -4,9 +4,9 @@
 id | int | primary key | auto_increment |
 nome_giocatore | varchar (15) | notnull
 cognome_giocatore | varchar (15) | notnull
-altezza 
-peso
-data_nascita
-media_punti
-media_da_tre
-media_da_due
+altezza | FLOAT (3,2) |
+peso | FLOAT (5,2) |
+data_nascita | DATE |
+media_punti | MEDIUMINT |
+media_da_tre | MEDIUMINT |
+media_da_due | MEDIUMINT |
