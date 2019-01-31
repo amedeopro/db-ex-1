@@ -2,9 +2,9 @@
 
 
 id | int | primary key | auto_increment |
-nome_giocatore | varchar (15) |
-cognome_giocatore
-altezza
+nome_giocatore | varchar (15) | notnull
+cognome_giocatore | varchar (15) | notnull
+altezza 
 peso
 data_nascita
 media_punti
